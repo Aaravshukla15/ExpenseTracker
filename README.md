@@ -1,5 +1,5 @@
 ### Expense Tracker 
-
+This Expense Tracker Application is built using Vue.js 3 and the Composition API, leveraging the latest syntax from version 3.2. It allows users to track their expenses by adding transactions, viewing total balance, income, and expenses, and deleting transactions if needed. The application is designed to be simple, intuitive, and responsive, providing a seamless experience across different devices.
 #### Features:
 - Add new transactions (income or expense).
 - View total balance, income, and expenses.
